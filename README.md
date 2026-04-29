@@ -12,11 +12,7 @@ Initially, the main skills used in this project were:
 
  <ul>
     <li> Creating ordered and unordered lists;
-<<<<<<< HEAD
-    <li> Inserting links with an anchor tag;
-=======
     <li> Inserting links with anchor tag;
->>>>>>> 132c999 (Correct the grammar on the webpages)
     <li> Inserting images;
     <li> As a bonus, adding favicons.
 </ul>
@@ -25,11 +21,7 @@ Throughout the project's development, new features and technologies will be adde
 The project proposal page can be accessed <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank" rel="noreferrer">here.</a>
 
 <h2>Access</h2>
-<<<<<<< HEAD
- Confira o website: <a href="https://sophiafsilva.github.io/odin-recipes" target="_blank" rel="noreferrer">https://sophiafsilva.github.io/odin-recipes</a>
-=======
  Check out the website: <a href="https://sophiafsilva.github.io/odin-recipes" target="_blank" rel="noreferrer">https://sophiafsilva.github.io/odin-recipes</a>
->>>>>>> 132c999 (Correct the grammar on the webpages)
 
 <h2>Technologies</h2>
 
