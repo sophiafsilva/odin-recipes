@@ -7,12 +7,12 @@
 ![Static Badge](https://img.shields.io/badge/STATUS-DEVELOPING-orange?style=for-the-badge)
 
 <h2>About</h2>
-This project is part of the development of the Odin Project (TOP) curriculum. Its initial commits integrate the first TOP project, which consists of building the structure of a simple HTML website. The website is composed of a homepage with links to other pages, each with a different cooking recipe following the theme proposed by TOP. 
+This project is part of the development of the Odin Project (TOP) curriculum. Its initial commits integrate the first TOP project, which consists of building the structure of a simple HTML website. The website consists of a homepage with links to other pages, each featuring a different cooking recipe that follows the theme proposed by TOP. 
 Initially, the main skills used in this project were:
 
  <ul>
     <li> Creating ordered and unordered lists;
-    <li> Inserting links with achor tag;
+    <li> Inserting links with an anchor tag;
     <li> Inserting images;
     <li> As a bonus, adding favicons.
 </ul>
@@ -20,7 +20,7 @@ Initially, the main skills used in this project were:
 Throughout the project's development, new features and technologies will be added, and the website will be updated with new ideas.
 The project proposal page can be accessed <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank" rel="noreferrer">here.</a>
 
-<h2>Acess</h2>
+<h2>Access</h2>
  Confira o website: <a href="https://sophiafsilva.github.io/odin-recipes" target="_blank" rel="noreferrer">https://sophiafsilva.github.io/odin-recipes</a>
 
 <h2>Technologies</h2>
